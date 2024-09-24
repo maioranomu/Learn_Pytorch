@@ -197,7 +197,7 @@ Where:
   - x = Input data
   - w = Weight of the input
   - b = Bias
-  - y = (3⋅* 2) + 1 = 7
+  - y = (3 * 2) + 1 = 7
 
 ### Model example:
   ```python
