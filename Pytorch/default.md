@@ -7,6 +7,9 @@
     - If you find any, please reach out so I can fix it.
 - Keep in mind thats a for fun project and I dont recommend using it to study, since im studying myself.
 #
+```python
+import torch
+```
 
 #
 ### References:

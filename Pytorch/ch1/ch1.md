@@ -7,10 +7,11 @@
     - If you find any, please reach out so I can fix it.
 - Keep in mind thats a for fun project and I dont recommend using it to study, since im studying myself.
 #
-With all that, lets begin.
 ```python
-import torch, numpy
+import torch
 ```
+With all that, lets begin.
+
 ### First i'd like to begin explaining in a easy way whats Machine Learning and Deep Learning.
 ### Deep Learning Explained:
 - In our day-by-day if we want to cook a chicken, we get the recipe and the ingredients, resulting in the cooked chicken.
